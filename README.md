@@ -3,7 +3,6 @@
 
 
 ## Workflows
-
 1. Update config.yaml
 2. Update secrets.yaml [Optional]
 3. Update params.yaml
@@ -32,7 +31,6 @@ conda create -p venv python==3.8 -y
 ```bash
 conda activate venv/
 ```
-
 
 ### STEP 02- install the requirements
 ```bash
